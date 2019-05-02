@@ -27,3 +27,4 @@ This fork is made by Halotroop2288 to include some missing assets to the origina
 * PCE/CD (by cucholix)
 * Famicom and Super Famicom (by dj_skual)
 * PAL NES and SNES (by dj_skual)
+* Triforce Arcade (by Cheatfreak47 and halotroop2288)
