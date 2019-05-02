@@ -1,6 +1,7 @@
 # WiiVC Banner/Icon/Sound (BIS)
 
-This project started as a small request and template sharing thread over gbatemp, it eventually grow into a big project which goal is set a standart for Wii U injection, now it adds practically all injectable console templates.   
+This project started as a small request and template sharing thread over gbatemp, it eventually grow into a big project which goal is set a standard for Wii U injection, now it adds practically all injectable console templates.   
+This fork is made by Halotroop2288 to include some missing assets to the original repo, as well as some for mods.
 
 ## Banner/icon creation guidelines:
 * The template is pretty self-explanatory, you will need Rodin NTLG Pro bold and regular fonts.
